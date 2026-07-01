@@ -1,42 +1,44 @@
+````md
 <div align="center">
 
-```text
-        ⋆｡‧˚ʚ☾ɞ˚‧｡⋆
+# ☾ 𝔷𝔦𝔫𝔢𝔟 𝔨𝔬𝔲𝔯𝔦𝔠𝔥𝔢𝔩 ☽
 
-        𝔷𝔦𝔫𝔢𝔟 𝔨𝔬𝔲𝔯𝔦𝔠𝔥𝔢𝔩
+### *The Digital Grimoire*
 
-        ───────────────
+*where shadows become software*
 
-       𝔣𝔲𝔩𝔩-𝔰𝔱𝔞𝔠𝔨 𝔡𝔢𝔳𝔢𝔩𝔬𝔭𝔢𝔯
+<br>
 
-        ⋆｡‧˚ʚ☾ɞ˚‧｡⋆
-```
+<img src="https://readme-typing-svg.demolab.com?font=Marcellus&size=22&duration=4500&pause=1500&color=B57EDC&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Building+beautiful+things+from+chaos.;Every+project+begins+with+a+spell." />
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=26&pause=2500&color=B57EDC&center=true&vCenter=true&width=900&lines=Welcome+to+my+digital+grimoire...;Crafting+software+under+moonlight.;Every+bug+is+a+cursed+spell.;Angular+•+React+•+Laravel+•+Node.js"/>
+<br>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✦ ☾ ✦
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </div>
 
----
+## 𓆩☾𓆪 About Me
 
-## ☾ The Grimoire
+```text
+❖ Full-Stack Developer
 
-```yaml
-name: Zineb Kourichel
+❖ Creating modern web applications
+   with a touch of curiosity.
 
-class: Full-Stack Developer
+❖ Currently studying the ancient
+   art of Node.js.
 
-currently:
-  - Learning Node.js
-  - Building modern web applications
-  - Collecting knowledge one project at a time
-
-philosophy:
-  "Magic is simply code we don't understand yet."
+❖ Forever collecting knowledge,
+   one project at a time.
 ```
 
 ---
 
-## ✦ Arcane Tools
+## ✦ Spellbook ✦
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=angular,react,nodejs,php,laravel,ts,js,mysql,git,github,vscode&theme=dark"/>
@@ -44,38 +46,55 @@ philosophy:
 
 ---
 
-## ☽ Ancient Records
+## ☾ Ancient Archives ☽
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zineb-kourichel&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zineb-kourichel&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000"/>
-
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=zineb-kourichel&theme=midnight-purple&show_icons=true&hide_border=true&bg_color=00000000&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zineb-kourichel&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=C084FC&text_color=E9D5FF"/>
 </p>
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=zineb-kourichel&theme=midnight-purple&hide_border=true"/>
-
 </p>
 
 ---
 
-## ☽ Constellation
+## ✦ Constellation ✦
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zineb-kourichel&theme=tokyo-night&bg_color=000000&color=d8b4fe&line=a855f7&point=e879f9&hide_border=true"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zineb-kourichel&theme=tokyo-night&hide_border=true&bg_color=000000&color=C084FC&line=9333EA&point=E879F9"/>
 </p>
+
+---
+
+## ☽ Current Rituals ☾
+
+```text
+◈ Learning Node.js
+
+◈ Building full-stack applications
+
+◈ Exploring clean architecture
+
+◈ Always creating something new...
+```
 
 ---
 
 <div align="center">
 
-> *"The moon remembers every line of code."*
+### ❈ Favorite Incantation ❈
 
-✦ ───────────── ☾ ───────────── ✦
+> *"Not every spell is written in Latin.*  
+> *Some are written in JavaScript."*
+
+✦
+
+*"The best magic leaves no trace except beautiful code."*
+
+<br>
+
+━━━━━━━━━━━━━━ ☾ ━━━━━━━━━━━━━━
 
 </div>
+````
