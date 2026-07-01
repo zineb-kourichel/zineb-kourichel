@@ -1,71 +1,72 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0a0014,25:1a0033,50:3b0764,75:6d28d9,100:c084fc&text=𝒵𝒾𝓃𝑒𝒷&fontSize=75&fontColor=f5e9ff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%9C%A6%20Digital%20Spellcaster&descAlignY=60"/>
+```text
+        ⋆｡‧˚ʚ☾ɞ˚‧｡⋆
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=24&duration=3500&pause=1200&color=C084FC&center=true&vCenter=true&width=900&lines=Welcome+to+my+digital+grimoire...;Crafting+code+under+moonlight.;Building+beautiful+things+from+chaos.;Angular+%7C+React+%7C+Laravel+%7C+Node.js"/>
+        𝔷𝔦𝔫𝔢𝔟 𝔨𝔬𝔲𝔯𝔦𝔠𝔥𝔢𝔩
 
-<br><br>
+        ───────────────
 
-✦ ─────────────── ☾ ◯ ☽ ─────────────── ✦
+       𝔣𝔲𝔩𝔩-𝔰𝔱𝔞𝔠𝔨 𝔡𝔢𝔳𝔢𝔩𝔬𝔭𝔢𝔯
+
+        ⋆｡‧˚ʚ☾ɞ˚‧｡⋆
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=26&pause=2500&color=B57EDC&center=true&vCenter=true&width=900&lines=Welcome+to+my+digital+grimoire...;Crafting+software+under+moonlight.;Every+bug+is+a+cursed+spell.;Angular+•+React+•+Laravel+•+Node.js"/>
 
 </div>
 
-# ☾ The Witch Behind the Screen
+---
+
+## ☾ The Grimoire
 
 ```yaml
-Name: Zineb
+name: Zineb Kourichel
 
-Role: Full-Stack Developer
+class: Full-Stack Developer
 
-Alignment: Chaotic Good
-
-Current Spell:
+currently:
   - Learning Node.js
-  - Building full-stack applications
-  - Turning coffee into code
+  - Building modern web applications
+  - Collecting knowledge one project at a time
 
-Favorite Magic:
-  - Angular
-  - React
-  - Laravel
-  - TypeScript
+philosophy:
+  "Magic is simply code we don't understand yet."
 ```
 
 ---
 
-# 🔮 Spellbook
+## ✦ Arcane Tools
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=angular,react,nodejs,php,laravel,ts,js,mysql,git,github,vscode&theme=dark"/>
+</p>
+
+---
+
+## ☽ Ancient Records
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zineb-kourichel&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zineb-kourichel&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=zineb-kourichel&theme=midnight-purple&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🕯 Grimoires & Ancient Records
+## ☽ Constellation
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=midnight-purple&show_icons=true&hide_border=true&bg_color=00000000"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=midnight-purple&hide_border=true"/>
-
-</p>
-
----
-
-# 🌙 Constellation
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&bg_color=000000&color=c084fc&line=a855f7&point=e879f9&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zineb-kourichel&theme=tokyo-night&bg_color=000000&color=d8b4fe&line=a855f7&point=e879f9&hide_border=true"/>
 
 </p>
 
@@ -73,15 +74,8 @@ Favorite Magic:
 
 <div align="center">
 
-```
-             ⋆          ☾
+> *"The moon remembers every line of code."*
 
-      "There is magic hidden
-         in every line of code."
-
-             ☽          ⋆
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:c084fc,30:6d28d9,60:3b0764,100:0a0014"/>
+✦ ───────────── ☾ ───────────── ✦
 
 </div>
