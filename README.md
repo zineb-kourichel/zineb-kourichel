@@ -1,45 +1,49 @@
-<h1 align="center">Hi, I'm Zineb</h1>
+<div align="center">
+
+# Zineb
+
+Full-Stack Web Developer
+
+Building modern web applications with Angular, React, Laravel, and Node.js.
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Building+Scalable+Web+Applications;Always+Learning+Something+New" />
+
+</div>
+
+---
+
+## Stack
 
 <p align="center">
-  Full-Stack Web Developer • Always Learning • Building Modern Web Applications
+<img src="https://skillicons.dev/icons?i=angular,react,ts,js,nodejs,php,laravel,mysql,git,github,vscode,figma&perline=6" />
 </p>
 
 ---
 
-### About Me
-
-- Full-Stack Web Developer
-- Currently learning Node.js
-- Passionate about clean code and modern web technologies
-- Open to collaboration on interesting projects
-
----
-
-### Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nodejs,php,laravel,mysql,git,github,vscode" />
-</p>
-
----
-
-### GitHub Stats
+## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-### Streak
+## Currently
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
+- Building full-stack projects
+- Learning Node.js
+- Exploring software architecture
+- Looking for challenging opportunities
 
 ---
 
-<p align="center">
-  <i>"Keep learning. Keep building."</i>
-</p>
+<div align="center">
+
+*"Great software starts with curiosity."*
+
+</div>
