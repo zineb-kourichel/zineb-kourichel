@@ -29,9 +29,6 @@
 ❖ Creating modern web applications
    with a touch of curiosity.
 
-❖ Currently studying the ancient
-   art of Node.js.
-
 ❖ Forever collecting knowledge,
    one project at a time.
 ```
@@ -57,20 +54,15 @@
 <img src="https://streak-stats.demolab.com?user=zineb-kourichel&theme=midnight-purple&hide_border=true"/>
 </p>
 
----
 
-## ✦ Constellation ✦
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zineb-kourichel&theme=tokyo-night&hide_border=true&bg_color=000000&color=C084FC&line=9333EA&point=E879F9"/>
-</p>
+
 
 ---
 
 ## ☽ Current Rituals ☾
 
 ```text
-◈ Learning Node.js
 
 ◈ Building full-stack applications
 
