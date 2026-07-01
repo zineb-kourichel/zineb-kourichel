@@ -1,60 +1,48 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,100:2563eb&text=Zineb&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=58"/>
+# 𖤐 Z I N E B 𖤐
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Building+Modern+Web+Applications;Angular+%7C+React+%7C+Laravel+%7C+Node.js;Always+Learning+New+Technologies"/>
+*"Crafting code like spells, one project at a time."*
+
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=24&pause=1200&color=A855F7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Creating+digital+magic;Always+learning+new+crafts"/>
 
 </div>
 
 ---
 
-# About Me
+## The Grimoire
 
-```txt
-> Full-Stack Web Developer
-> Passionate about clean architecture and modern web technologies
-> Currently learning Node.js
-> Building projects and continuously improving my skills
+```
+Name        :: Zineb
+Occupation  :: Full-Stack Developer
+Current     :: Learning Node.js
+Focus       :: Modern Web Applications
+Status      :: Brewing new projects...
 ```
 
 ---
 
-# Tech Stack
+## Arcane Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nodejs,express,php,laravel,mysql,git,github,vscode,figma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,angular,nodejs,php,laravel,ts,js,mysql,git,github,vscode&theme=dark"/>
 </p>
 
 ---
 
-# GitHub Stats
+## The Codex
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=midnight-purple&show_icons=true&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=midnight-purple&hide_border=true"/>
 </p>
 
 ---
 
-# Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
+> *"Not all magic belongs to fantasy. Some is written in code."*
 
 <div align="center">
 
-*"Code. Learn. Build. Repeat."*
+☾ ☽
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2563eb,100:0f172a"/>
